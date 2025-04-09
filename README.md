@@ -6,3 +6,4 @@ Este proyecto contiene dos scripts en Python:
 2. **holaprueba2.py**: Contiene texto de prueba repetitivo.
 
 Este proyecto fue creado como parte de una tarea en GitHub Classroom.
+#Ilán FIscher
